@@ -96,7 +96,7 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
 mediaType: 'VIDEO',
 mediaUrl: 'https://www.kibrispdr.org/dwn/7/yotsuba-nakano-wallpaper.jpg',
 title: 'Simple Bot Esm',
-body: 'By Papah-Chan',
+body: 'By rozi',
 thumbnail: fs.readFileSync("./thumbnail.jpg"),
 sourceUrl: 'https://youtu.be/poD-7_U3jXk'
 }
